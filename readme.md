@@ -1,6 +1,6 @@
 EMS - employee management system
 emp details -> name, email, age (inputs)
-task details -> task anem, date (DATE.now()), status
+task details -> task name, date (DATE.now()), status
 
 
 CRUD operations using http module in nodejs
