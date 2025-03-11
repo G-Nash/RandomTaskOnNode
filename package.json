@@ -1,0 +1,21 @@
+{
+  "name": "some-task-on-node",
+  "version": "1.0.0",
+  "description": "EMS - employee management system\r emp details -> name, email, age (inputs)\r task details -> task name, date (DATE.now()), status",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/G-Nash/RandomTaskOnNode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/G-Nash/RandomTaskOnNode/issues"
+  },
+  "homepage": "https://github.com/G-Nash/RandomTaskOnNode#readme"
+}
